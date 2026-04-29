@@ -14,3 +14,5 @@ control?
 5. Describe how modifying the code and committing changes represents change 
 control and version update. 
 6. Explain how viewing commit history demonstrates status accounting
+
+ must Add a screenshot of all 

@@ -1,0 +1,16 @@
+Task#2: - Read the given scenario and implement the following parts: -
+A company uses drones to deliver packages. The system manages drone routes, delivery 
+status, and package tracking. Multiple developers are working on updating flight 
+algorithms and delivery features. To avoid conflicts and manage updates efficiently, 
+Software Configuration Management (SCM) is applied.
+1. Identify the configuration items of the selected system and explain how the 
+planning phase was demonstrated in the lab. 
+2. How was the implementation phase achieved through the development of the 
+program file (main.cpp)? 
+3. Explain how configuration identification was performed by creating a repository 
+on GitHub. 
+4. How does uploading the file and making the initial commit demonstrate version 
+control? 
+5. Describe how modifying the code and committing changes represents change 
+control and version update. 
+6. Explain how viewing commit history demonstrates status accounting
